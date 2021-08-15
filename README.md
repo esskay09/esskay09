@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFhplqztFokWA/profile-displaybackgroundimage-shrink_200_800/0/1629037008947?e=1634774400&v=beta&t=CHiuSN2hzQ5kzYGy19_aMx4UR_y7MmcrtP8YIvFN39Q)](https://khushboogoel01.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQG1k0478KbAYw/profile-displaybackgroundimage-shrink_200_800/0/1629037557091?e=1634774400&v=beta&t=DT4nLpKf1iEm1nhho1jMw0WuJMGGidyRExbJlcc5_zY)](https://khushboogoel01.github.io)
 
 <h1 align="center">Hi 👋, I'm Shaique</h1>
 <h3 align="center">Clean code is my nicotine</h3>
