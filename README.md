@@ -1,12 +1,13 @@
 
-[![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://khushboogoel01.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFhplqztFokWA/profile-displaybackgroundimage-shrink_200_800/0/1629037008947?e=1634774400&v=beta&t=CHiuSN2hzQ5kzYGy19_aMx4UR_y7MmcrtP8YIvFN39Q)](https://khushboogoel01.github.io)
 
 <h1 align="center">Hi 👋, I'm Shaique</h1>
 <h3 align="center">Clean code is my nicotine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esskay09&label=Profile%20views&color=0e75b6&style=flat" alt="esskay09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esskay09" alt="esskay09" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
 <p align="left"> <a href="https://twitter.com/supertramp0007" target="blank"><img src="https://img.shields.io/twitter/follow/supertramp0007?logo=twitter&style=for-the-badge" alt="supertramp0007" /></a> </p>
 
