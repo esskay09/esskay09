@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/supertramp0007" target="blank"><img src="https://img.shields.io/twitter/follow/supertramp0007?logo=twitter&style=for-the-badge" alt="supertramp0007" /></a> </p>
 
-- 🔭 I’m currently working on [Yellow Heart App](https://github.com/esskay09/Yellow-Heart)
+- 🔭 I’m currently working on [Yellow Heart](https://github.com/esskay09/Yellow-Heart)
 
 - 🌱 I’m currently learning **WebRTC**
 
