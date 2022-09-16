@@ -1,5 +1,4 @@
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQG1k0478KbAYw/profile-displaybackgroundimage-shrink_200_800/0/1629037557091?e=1634774400&v=beta&t=DT4nLpKf1iEm1nhho1jMw0WuJMGGidyRExbJlcc5_zY)]()
 
 <h1 align="center">Hi 👋, I'm Shaique</h1>
 <h3 align="center">Clean code is my nicotine</h3>
